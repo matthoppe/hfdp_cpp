@@ -15,7 +15,7 @@
 #endif
 
 #ifndef FLYABLE_H
-#include "flyable.h"
+#include "Flyable.h"
 #endif
 
 #ifndef QUACKABLE_H
