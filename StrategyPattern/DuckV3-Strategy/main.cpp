@@ -15,7 +15,7 @@
 #endif
 
 #ifndef FLYBEHAVIOR_H
-#include "flyBehavior.h"
+#include "FlyBehavior.h"
 #endif
 
 #ifndef QUACKBEHAVIOR_H
